@@ -9,3 +9,8 @@ sensible==1.0.3
 Flask-API==2.0
 pytest==6.2.
 pytest-cov==2.11.1
+ipython
+jupyter
+matplotlib
+seaborn
+numpy
